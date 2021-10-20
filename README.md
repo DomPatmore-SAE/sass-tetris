@@ -3,6 +3,7 @@
 Your task is to recreate the image attached in this folder. 
 
 **Nothing above line 18 should be changed**
+**You do not need to alter the HTML**
 
 you will need to use the following colors which should be stored as variables:
 
